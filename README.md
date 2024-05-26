@@ -6,7 +6,7 @@ You can see that besides the .py files where the main code is included (BERT_NN.
 The notebooks named as a lowercase version of their respective .py files (bert_nn.ipynb, bert_xgboost.ipynb, and bert_rf.ipynb) are where the .py files are run and the results are presented. <br><br>
 You will notice that for the largest datasets (7852), pickle versions of the trained models are saved in the Pickle folder. These trained models are going to be used in the Advanced Programming project where a GUI will use them to make predictions.
 
-Please find bellow the html links to each dataset:<br><br>
+### *Please find bellow the html links to each dataset* <br><br>
 Twitter (Multi-Class): https://www.kaggle.com/datasets/nelgiriyewithana/emotions <br><br>
 Reddit: https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?select=Reddit_Data.csv <br><br>
 Yelp: https://huggingface.co/datasets/yelp_review_full <br><br>
